@@ -7,12 +7,7 @@
 
 ---
 
-## 📈 GitHub Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=midhuna-06&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff&area=true&hide_border=true" alt="midhuna's GitHub Activity Graph" />
-</p>
 
----
 
 ## 🧩 LeetCode Insights
 <p align="center">
@@ -21,20 +16,7 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=midhuna-06&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=midhuna-06&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhuna-06&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
